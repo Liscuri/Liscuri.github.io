@@ -49,7 +49,7 @@ const config =
                 name: "_risbo_", role: "MODERATOR"
             },
             { 
-                name: "Xdinary_Heroes", role: "MODERATOR"
+                name: "Hrt_Auua", role: "MODERATOR"
             },
             { 
                 name: "Knolpower_Ontop", role: "MODERATOR"
