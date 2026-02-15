@@ -51,6 +51,22 @@ body {
 .nav-menu a { color: #aaa; text-decoration: none; font-weight: 600; font-size: 0.9rem; transition: 0.3s; text-transform: uppercase; }
 .nav-menu a:hover { color: var(--gold); }
 
+#nav-store {
+    color: #000;
+    background: linear-gradient(135deg, var(--gold) 0%, #ffe28a 100%);
+    border: 1px solid rgba(255, 198, 0, 0.8);
+    border-radius: 999px;
+    padding: 7px 14px;
+    box-shadow: 0 0 14px rgba(255, 198, 0, 0.25);
+}
+
+#nav-store:hover {
+    color: #000;
+    background: linear-gradient(135deg, #ffe28a 0%, var(--gold) 100%);
+    box-shadow: 0 0 20px rgba(255, 198, 0, 0.45);
+    transform: translateY(-1px);
+}
+
 /* Language Selector */
 .custom-lang-selector { position: relative; cursor: pointer; font-size: 0.9rem; }
 .selected-lang {
