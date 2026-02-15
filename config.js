@@ -48,6 +48,9 @@ const config =
             { 
                 name: "_risbo_", role: "MODERATOR"
             },
+            {
+                name: "hutsaniffau", role: "MODERATOR"
+            },
             { 
                 name: "Hrt_Auua", role: "MODERATOR"
             },
