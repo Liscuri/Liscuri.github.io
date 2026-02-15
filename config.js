@@ -264,14 +264,14 @@ const config =
         nl: {
             flag: "nl", name: "Nederlands",
             nav: { home: "Home", staff: "Team", timeline: "Tijdlijn", rules: "Regels", faq: "FAQ", store: "Store" },
-            hero: { subtitle: "4 weken, 1 leven, onbeperkte mogelijkheden.", btn_copy: "KOPIEER IP", btn_copy_bedrock: "KOPIEER POORT", online: "online" },
+            hero: { subtitle: "4 weken, 1 leven, onbeperkte mogelijkheden.", btn_copy: "KOPIEER IP", btn_copy_bedrock: "KOPIEER IP", online: "online" },
             titles: { staff: "ONS TEAM", timeline: "TIJDLIJN", rules: "REGELS", faq: "VEELGESTELDE VRAGEN", legal: "JURIDISCH CENTRUM" },
             legal_tabs: { tos: "Voorwaarden", priv: "Privacy", notice: "Juridische kennisgeving" }
         },
         en: {
             flag: "us", name: "English",
             nav: { home: "Home", staff: "Team", timeline: "Timeline", rules: "Rules", faq: "FAQ", store: "Store" },
-            hero: { subtitle: "4 weeks, 1 life, unlimited possibilities.", btn_copy: "COPY IP", btn_copy_bedrock: "COPY PORT", online: "online" },
+            hero: { subtitle: "4 weeks, 1 life, unlimited possibilities.", btn_copy: "COPY IP", btn_copy_bedrock: "COPY IP", online: "online" },
             titles: { staff: "OUR TEAM", timeline: "TIMELINE", rules: "SERVER RULES", faq: "FREQUENTLY ASKED QUESTIONS", legal: "LEGAL CENTER" },
             legal_tabs: { tos: "Terms", priv: "Privacy", notice: "Legal Notice" }
         }
