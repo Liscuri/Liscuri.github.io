@@ -34,9 +34,6 @@ const config =
                 name: "Gwn_B1TT3R", role: "ADMIN"
             },
             { 
-                name: "Kaarslicht", role: "ADMIN"
-            },
-            { 
                 name: "Winterslaap", role: "DEVELOPER"
             },
             { 
